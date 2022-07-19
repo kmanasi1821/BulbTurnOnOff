@@ -1,0 +1,29 @@
+.container {
+    display: block;
+    text-align: center;
+    padding: 100px;
+    margin: 100px;
+    background-color: black;
+    border: 1px solid ;
+    border-radius: 100px;
+}
+#heading {
+    color: lightgrey;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img {
+    height: 350px;
+}
+.buttons {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 480px;
+    text-decoration: none;  
+}
+button {
+    margin: 18px;
+    font-size: 30px;
+    border: 1px ;
+    border-radius: 5px;
+}
